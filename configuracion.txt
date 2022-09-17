@@ -1,0 +1,6 @@
+rutaerrores=errores.txt
+rutahistorial=historial.txt
+arectangulo=act
+vcilindro=act
+tencuentro=act
+vesfera=act
